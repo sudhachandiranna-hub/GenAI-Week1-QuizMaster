@@ -4,8 +4,6 @@ A Streamlit app for the 5-day GenAI training program: one continuous storytellin
 
 There's no login. The entry screen just asks for an email and a display name — email is the unique key so two participants can both type "Dave" and still show up as separate rows on the leaderboard. No password, no verification.
 
-Google Sheets is required, not optional — the app needs it to save results and won't run without it. Set that up first (step 1), then run the app.
-
 ## How it works
 
 The flow is linear and automatic — participants never pick a chapter or topic themselves:
